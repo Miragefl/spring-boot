@@ -35,6 +35,7 @@ public class SampleActiveMQApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SampleActiveMQApplication.class, args);
+		System.out.println("start");
 	}
 
 }
